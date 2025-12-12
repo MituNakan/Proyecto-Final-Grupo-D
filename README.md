@@ -21,10 +21,11 @@
 
 ## 📝 Descripción del proyecto  
 
-Este repositorio contiene toda la documentación y los artefactos necesarios para el desarrollo de nuestra empresa ficticia de **Montaje y Mantenimiento de Equipos Informáticos**. Incluye:
+Este repositorio contiene toda la documentación y los artefactos necesarios para el desarrollo de nuestra empresa de **Montaje y Mantenimiento de Equipos Informáticos**. 
+Incluye:
 
 * Identidad corporativa (nombre y logo).  
-* Plano arquitectónico del edificio.  
+* Plano del edificio.  
 * Esquema lógico y físico de la infraestructura de red.  
 * Presupuesto detallado de todos los equipos informáticos.  
 * Configuración de red (DHCP, DNS, IP del servidor).  
