@@ -8,11 +8,7 @@
 ## 📑 Índice  
 
 1. [Descripción del proyecto](#descripción-del-proyecto)  
-2. [Estructura del repositorio](#estructura-del-repositorio)  
-3. [Instalación y despliegue](#instalación-y-despliegue)  
-4. [Configuración de red](#configuración-de-red)  
-5. [Presupuesto de equipos](#presupuesto-de-equipos)  
-6. [Plan de copias de seguridad](#plan-de-copias-de-seguridad)  
+2. [Estructura del repositorio](#estructura-del-repositorio)   
 
 ---  
 
