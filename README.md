@@ -1,6 +1,6 @@
 # 📘 Proyecto Final Grupo D  
 
-## 🎯 Nombre del proyecto  
+## 🎯 Proyecto Final Grupo D 
 **Proyecto Final Grupo D – Empresa de Montaje y Mantenimiento de Equipos Informáticos**  
 
 ---  
