@@ -1,10 +1,7 @@
-# 📘 README – Proyecto Final Grupo D  
+# 📘 Proyecto Final Grupo D  
 
 ## 🎯 Nombre del proyecto  
 **Proyecto Final Grupo D – Empresa de Montaje y Mantenimiento de Equipos Informáticos**  
-
-## 🖼️ Logo  
-![Logo de la empresa](ruta/al/logo.png) <!-- Reemplaza `ruta/al/logo.png` con la ubicación real del archivo -->
 
 ---  
 
@@ -33,6 +30,4 @@ Este repositorio contiene toda la documentación y los artefactos necesarios par
 * Configuración de red (DHCP, DNS, IP del servidor).  
 * Estrategia de copias de seguridad.  
 
----  
-
-## 📂 Estructura del repositorio  
+---   
