@@ -13,9 +13,6 @@
 4. [Configuración de red](#configuración-de-red)  
 5. [Presupuesto de equipos](#presupuesto-de-equipos)  
 6. [Plan de copias de seguridad](#plan-de-copias-de-seguridad)  
-7. [Contribuir](#contribuir)  
-8. [Licencia](#licencia)  
-9. [Contacto](#contacto)  
 
 ---  
 
@@ -32,3 +29,20 @@ Incluye:
 * Estrategia de copias de seguridad.  
 
 ---   
+
+## 📂 Estructura del repositorio  
+```text
+├─ .gitignore
+├─ README.md              
+├─ IPE
+│  └─ Presupuesto
+├─ Informe Proyecto
+├─ Seguridad Informatica
+│  ├─ Desafio seguridad fisica
+│  ├─ Presupuesto e inventario
+│  └─ Proyecto Empresa Final.drawio
+├─ Servicios en Red
+│  ├─ Creacion arquitectura de red empresa
+│  └─ Implementacion DHCP y DNS
+├─ Sistemas en Red
+│  └─ Copias de Seguridad
